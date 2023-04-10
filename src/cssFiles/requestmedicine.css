@@ -1,0 +1,26 @@
+.box{
+    /* border:2px solid red; */
+    background-color: aquamarine;
+    width:580px;
+    height: 700px;
+    border-radius: 20px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    
+
+}
+.ppp{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.outerdiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+
