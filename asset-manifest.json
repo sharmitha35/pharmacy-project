@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/pharmacy-project/static/css/main.a3ff64c3.css",
-    "main.js": "/pharmacy-project/static/js/main.66783017.js",
-    "static/media/fa-solid-900.ttf": "/pharmacy-project/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
-    "static/media/fa-brands-400.ttf": "/pharmacy-project/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
-    "static/media/loginimage.png": "/pharmacy-project/static/media/loginimage.32c2bcfb24d43bf4b48b.png",
-    "static/media/fa-solid-900.woff2": "/pharmacy-project/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
-    "static/media/fa-brands-400.woff2": "/pharmacy-project/static/media/fa-brands-400.7be2266f1be21c44ecd4.woff2",
-    "static/media/fa-regular-400.ttf": "/pharmacy-project/static/media/fa-regular-400.146404900f7550a9719d.ttf",
-    "static/media/fa-regular-400.woff2": "/pharmacy-project/static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
-    "static/media/fa-v4compatibility.ttf": "/pharmacy-project/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
-    "static/media/fa-v4compatibility.woff2": "/pharmacy-project/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
-    "index.html": "/pharmacy-project/index.html",
-    "main.a3ff64c3.css.map": "/pharmacy-project/static/css/main.a3ff64c3.css.map",
-    "main.66783017.js.map": "/pharmacy-project/static/js/main.66783017.js.map"
+    "main.css": "/pharm/static/css/main.3905ca79.css",
+    "main.js": "/pharm/static/js/main.66783017.js",
+    "static/media/fa-solid-900.ttf": "/pharm/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
+    "static/media/fa-brands-400.ttf": "/pharm/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
+    "static/media/loginimage.png": "/pharm/static/media/loginimage.32c2bcfb24d43bf4b48b.png",
+    "static/media/fa-solid-900.woff2": "/pharm/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
+    "static/media/fa-brands-400.woff2": "/pharm/static/media/fa-brands-400.7be2266f1be21c44ecd4.woff2",
+    "static/media/fa-regular-400.ttf": "/pharm/static/media/fa-regular-400.146404900f7550a9719d.ttf",
+    "static/media/fa-regular-400.woff2": "/pharm/static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
+    "static/media/fa-v4compatibility.ttf": "/pharm/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
+    "static/media/fa-v4compatibility.woff2": "/pharm/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
+    "index.html": "/pharm/index.html",
+    "main.3905ca79.css.map": "/pharm/static/css/main.3905ca79.css.map",
+    "main.66783017.js.map": "/pharm/static/js/main.66783017.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3ff64c3.css",
+    "static/css/main.3905ca79.css",
     "static/js/main.66783017.js"
   ]
 }
